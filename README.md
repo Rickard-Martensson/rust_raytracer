@@ -1,4 +1,5 @@
 # RayTracer
 gjorde en raytracer lol
 
-Whats poppin jimbos hej nisse ska du sno min kod nu?
+
+![Spheres](helloworld_smooth.png)
